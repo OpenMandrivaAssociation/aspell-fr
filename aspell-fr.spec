@@ -21,7 +21,6 @@ Source:		http://aspell.sourceforge.net/aspell-%{languagecode}-%{src_ver}.tar.bz2
 URL:		http://aspellfr.free.fr/aspell/
 License:	GPL
 Epoch:		1
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 Provides: spell-fr
 
 BuildRequires:	aspell >= 0.50
