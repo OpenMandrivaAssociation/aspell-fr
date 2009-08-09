@@ -14,7 +14,7 @@
 
 Name:		aspell-%{languagecode}
 Version:	0.50.3
-Release:	%mkrel 15
+Release:	%mkrel 16
 Summary:	%{languageenglazy} files for aspell
 Group:		System/Internationalization
 Source:		http://aspell.sourceforge.net/aspell-%{languagecode}-%{src_ver}.tar.bz2
