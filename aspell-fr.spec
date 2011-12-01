@@ -52,7 +52,7 @@ export LC_ALL=fr
 %make
 
 %install
-rm -fr $RPM_BUILD_ROOT
+rm -fr %{buildroot}
 export LC_ALL=fr
 %makeinstall_std
 
@@ -60,7 +60,7 @@ export LC_ALL=fr
 chmod 644 README COPYING
 
 %clean
-rm -fr $RPM_BUILD_ROOT
+rm -fr %{buildroot}
 
 %files
 %defattr(-,root,root)
