@@ -16,7 +16,7 @@ Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
 Epoch:		1
 Version:	0.50.3
-Release:	27
+Release:	28
 Group:		System/Internationalization
 License:	GPLv2
 Url:		http://aspellfr.free.fr/aspell/
