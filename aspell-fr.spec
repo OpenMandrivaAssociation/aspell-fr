@@ -19,7 +19,7 @@ Version:	0.50.3
 Release:	29
 Group:		System/Internationalization
 License:	GPLv2
-Url:		http://aspellfr.free.fr/aspell/
+Url:		https://aspellfr.free.fr/aspell/
 Source0:	http://aspell.sourceforge.net/aspell-%{languagecode}-%{src_ver}.tar.bz2
 
 BuildRequires:	aspell >= 0.50
